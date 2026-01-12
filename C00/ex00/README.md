@@ -1,5 +1,5 @@
-#Exercise 00: ft_putchar
-
+## Exercise 00: ft_putchar
+```
 +-------------------------------+----------------------------------------------------+
 |	## Exercise		|	ft_putchar                                   |
 |_______________________________|____________________________________________________|
@@ -9,7 +9,7 @@
 |_______________________________|____________________________________________________|
 |	Allowed Functions	|	write                                        |
 +-------------------------------+----------------------------------------------------+
-
+```
 - Your task : Write a function displays the character passed as a parameter.
-- The function should be prototyped as follows: void	ft_putchar(char c);
-- Compiles with the following flags: '''-Wall -Wextra -Weroor'''
+- The function should be prototyped as follows: `void	ft_putchar(char c);`
+- Compiles with the following flags: `'''-Wall -Wextra -Werror'''`
